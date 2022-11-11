@@ -11,7 +11,6 @@ public:
     Bank()
     {
         name = " ";
-
         acc_type = " ";
         initial = 0;
     }
